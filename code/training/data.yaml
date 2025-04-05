@@ -1,0 +1,6 @@
+train: ../new/images/training #replace with your path
+val: ../new//labels/validation
+# number of classes
+nc: <no.of classes>
+# class names
+names: ['<object name>','<object names>']
