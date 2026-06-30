@@ -5,7 +5,7 @@
 This repository provides a comparative study and implementation of multiple **YOLO architectures** (YOLOv5, YOLOv8, etc.) to build a robust framework for **anomaly detection in video streams**.  
 Developed during the **Hyperland National Hackathon**, the project showcases real-time computer vision innovation for detecting irregular or unsafe activities.  
 
-
+This repo will teaches how to train and run YOLO model. complete pipeline.
 
 ## 📂 Repository Structure  
 
